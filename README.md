@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Najam Rehman 👋
 
-<!--
-**Najam547/najam547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+💻 Learning Python & Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building Automation and Software Projects
+
+## Projects
+
+### 📁 Smart File Organizer
+Python automation tool that organizes files into folders based on their file types.
+
+### 🎓 Student Management System
+A Student Management System built through different stages:
+- Python CLI
+- Object-Oriented Programming
+- SQLite Database
+
+## Currently Learning
+
+- Python
+- Java
+- Data Structures & Algorithms
+- AI & Automation
+
+## Goal
+
+Building practical software and automation projects while growing as an AI developer.
